@@ -1,6 +1,6 @@
 # python_interview_task
 
-his is a "find the word" challenge with a slight twist. Attached is a file that includes two puzzle inputs. Each puzzle input is a double character array consisting of lower case English characters from a - z. 
+This is a "find the word" challenge with a slight twist. Attached is a file that includes two puzzle inputs. Each puzzle input is a double character array consisting of lower case English characters from a - z. 
 The word to find from the first input array is 'netapp' and the word to find from the second input array is 'containers'.  These words are also included in the attached puzzle.txt file along with the puzzle inputs. 
 
 The words to find can appear horizontally or vertically BUT NOT diagonally. The horizontal word will appear in order from left to right. The vertical word will appear in order from top to bottom. 
